@@ -1,0 +1,17 @@
+
+# Dependencies
+**/node_modules/
+
+# Build outputs
+**/release/
+**/dist/
+**/build/
+
+# Downloaded archives
+IDM-rea/downloads/
+
+# Environment and cache
+**/.env
+**/.env.*
+**/.cache/
+**/coverage/
